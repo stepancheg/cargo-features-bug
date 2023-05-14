@@ -1,0 +1,8 @@
+[package]
+name = "common"
+edition = "2021"
+version = "0.1.0"
+
+[features]
+x = []
+y = []

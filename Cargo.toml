@@ -1,0 +1,10 @@
+resolver = "2"
+
+[workspace]
+members = [
+    "a",
+    "b",
+    "common",
+]
+
+[workspace.dependencies]
